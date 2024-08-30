@@ -4,7 +4,7 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G376_G386_Calculo/Calculo_00_introMatlab.mlx)
 
-## Práctica 1: Números Complejos
+## Práctica 1: Números complejos
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G376_G386_Calculo/Calculo_01_complejos.mlx)
 

@@ -1,6 +1,5 @@
-# Repositorio de guiones de prácticas de MATLAB
+# Prácticas de la asignatura Álgebra (G320) en el Grado en Ingeniería Química 
 
-[![Licencia CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+## Práctica 3: Variables simbólicas
 
-
-En este repositorio puedes encontrar los guiones de las prácticas de MATLAB impartidas por los profesores del grupo InMaths. 
+[![Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G320_Algebra/practica3.mlx)

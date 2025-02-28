@@ -1,4 +1,4 @@
-# Prácticas de la asignatura Álgebra (G320) en el Grado en Ingeniería Química 
+# Prácticas en MATLAB de la asignatura _Álgebra_ (G320) del Grado en Ingeniería Química 
 
 ## Práctica 3: Variables simbólicas
 

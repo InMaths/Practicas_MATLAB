@@ -19,3 +19,7 @@
 ## Práctica 5: Integrales de línea
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica5.mlx)
+
+## Práctica 6: Integrales de superficie de campos escalares
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica6.mlx)

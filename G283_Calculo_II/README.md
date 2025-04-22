@@ -32,3 +32,9 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica8.mlx)
 
+## Práctica 9: Resolución numérica de ecuaciones diferenciales de primer orden
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica9.mlx)
+
+
+

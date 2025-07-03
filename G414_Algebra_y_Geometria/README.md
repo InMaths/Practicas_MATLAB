@@ -4,7 +4,7 @@ Repositorio con prácticas interactivas en MATLAB para la asignatura G414: Álge
 
 ---
 
-## Tema 1 (parte 1): Matrices
+## Guion Tema 1 - parte 1: Matrices
 
 Introduce las operaciones básicas con matrices y vectores en MATLAB.
 
@@ -12,7 +12,7 @@ Introduce las operaciones básicas con matrices y vectores en MATLAB.
 
 ---
 
-## Guion Tema 1 (parte 2): Funciones 
+## Guion Tema 1 - parte 2: Funciones 
 
 Explica el concepto de función en programación. Desde el uso de funciones con MATLAB a las distintas formas de definir nuestras propias funciones.
 

@@ -4,7 +4,7 @@ Repositorio con prácticas interactivas en MATLAB para la asignatura G414: Álge
 
 ---
 
-## Práctica 1: Matrices
+## Tema 1 (parte 1): Matrices
 
 Introduce las operaciones básicas con matrices y vectores en MATLAB.
 
@@ -12,7 +12,7 @@ Introduce las operaciones básicas con matrices y vectores en MATLAB.
 
 ---
 
-## Práctica 2: Funciones 
+## Guion Tema 1 (parte 2): Funciones 
 
 Explica el concepto de función en programación. Desde el uso de funciones con MATLAB a las distintas formas de definir nuestras propias funciones.
 
@@ -20,7 +20,7 @@ Explica el concepto de función en programación. Desde el uso de funciones con 
 
 ---
 
-## Práctica 3: Sistemas de ecuaciones lineales
+## Guion Tema 3: Sistemas de ecuaciones lineales
 
 Métodos de resolución de sistemas lineales con MATLAB.
 
@@ -28,7 +28,7 @@ Métodos de resolución de sistemas lineales con MATLAB.
 
 ---
 
-## Práctica 4: Espacios vectoriales
+## Guion Tema 4: Espacios vectoriales
 
 Introduce subespacios, bases y dimensión, así como cómo calcularlos utilizando MATLAB.
 
@@ -36,7 +36,7 @@ Introduce subespacios, bases y dimensión, así como cómo calcularlos utilizand
 
 ---
 
-## Práctica 5: Espacio euclídeo
+## Guion Tema 4: Espacio euclídeo
 
 Estudia productos escalares, normas, ortogonalidad y proyecciones.
 
@@ -44,7 +44,7 @@ Estudia productos escalares, normas, ortogonalidad y proyecciones.
 
 ---
 
-## Práctica 6: Aplicaciones lineales
+## Guion Tema 5: Aplicaciones lineales
 
 Analiza transformaciones lineales a través de su matriz asociada, el núcleo, la imagen y el cambio de base.
 

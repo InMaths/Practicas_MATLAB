@@ -1,4 +1,4 @@
-# Prácticas en MATLAB de la asignatura _Álgebra_ (G320) del Grado en Ingeniería Química 
+# Prácticas de Álgebra (G320)
 
 ## Práctica 1: Introducción a MATLAB
 

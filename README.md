@@ -1,4 +1,4 @@
-<img src="[https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg](https://w7.pngwing.com/pngs/272/684/png-transparent-matlab-logo.png)" width = "140"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://w7.pngwing.com/pngs/272/684/png-transparent-matlab-logo.png" width = "140"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 # Repositorio de guiones de prácticas de MATLAB
 

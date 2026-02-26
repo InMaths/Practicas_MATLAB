@@ -1,21 +1,29 @@
 # Prácticas del Bloque 2 de Métodos Numéricos (G855-G985)
 
-## Práctica 1: Aritmética computacional
+## Bloque I - Práctica 1: Estadística Descriptiva
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G855_G985_Bloque_II_Metodos_Numericos/MMI_01_guion.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G584_G615_Metodos_Matematicos/Bloque_I_EstadisticaDescriptiva.mlx)
 
-## Práctica 2: Resolución aproximada de ecuaciones no lineales
+## Bloque II - Práctica 1: Artimética Computacional
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G584_G615_Metodos_Matematicos/Bloque_II_01_AritmeticaComputacional.mlx)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G855_G985_Bloque_II_Metodos_Numericos/MMI_02_guion.mlx)
+## Bloque II - Práctica 2: Resolución aproximada de ecuaciones no lineales
 
-## Práctica 3: Aproximación de funciones reales por polinomios. Optimización
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G584_G615_Metodos_Matematicos/Bloque_II_02_EcuacionesNoLineales.mlx)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G855_G985_Bloque_II_Metodos_Numericos/MMI_03_guion.mlx)
+## Bloque II - Práctica 3 (1):  Aproximación de funciones reales por polinomios
 
-## Práctica 4: Integración numérica
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G584_G615_Metodos_Matematicos/Bloque_II_03_1_Interpolacion.mlx)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G855_G985_Bloque_II_Metodos_Numericos/MMI_04_guion.mlx)
+## Bloque II - Práctica 3 (2): Integración numérica
 
-## Práctica 5: Integración numérica de ecuaciones diferenciales ordinarias
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G584_G615_Metodos_Matematicos/Bloque_II_03_2_Integracion.mlx)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G855_G985_Bloque_II_Metodos_Numericos/MMI_05_guion.mlx)
+## Bloque II - Práctica 4: Resolución numérica de sistemas lineales
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G584_G615_Metodos_Matematicos/Bloque_II_04_SistemasLineales.mlx)
+
+## Bloque II - Práctica 5: Optimización
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G584_G615_Metodos_Matematicos/Bloque_II_05_Optimizacion.mlx)
+

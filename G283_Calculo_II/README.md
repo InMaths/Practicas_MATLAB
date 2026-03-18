@@ -19,11 +19,11 @@
 ## Práctica 5: Campos vectoriales
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica5.mlx)
 
-## Práctica 6: Integrales de línea de Campos Escalares
+## Práctica 6: Integrales de Línea de Campos Escalares
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica6.mlx)
 
-## Práctica 6: Integrales de superficie de campos escalares
+## Práctica 6: Integrales de Línea de Campos Vectoriales
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica6.mlx)
 

@@ -31,13 +31,13 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica8.mlx)
 
-## Práctica 9: Integrales de superficie de campos escalares
+## Práctica 9: Integrales de superficie. Teorema del Valor Medio.
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica8.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica9.mlx)
 
 ## Práctica 10: Integrales de superficie de campos vectoriales
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica8.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica10.mlx)
 
 ## Práctica 11: Soluciones de ecuaciones diferenciales de primer orden
 

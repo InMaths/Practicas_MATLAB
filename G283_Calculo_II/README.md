@@ -43,12 +43,11 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica11.mlx)
 
-## Práctica 12: Isoclinas y campos de direcciones
+## Práctica 12: Resolución numérica de ecuaciones diferenciales de primer orden
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica12.mlx)
 
-
-## Práctica 13: Resolución numérica de ecuaciones diferenciales de primer orden
+## Práctica 13: Isoclinas y campos de direcciones
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=InMaths/Practicas_MATLAB&file=G283_Calculo_II/practica13.mlx)
 
